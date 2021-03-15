@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joyner Pérez, Cuban immigrant residing in Ecuador
+- 👋 Hi, I’m @Joyner Pérez, Mobile Developer and Cuban immigrant residing in Ecuador
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on mobile development
